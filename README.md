@@ -29,7 +29,7 @@ Un **Pokédex moderne** développé en React qui consomme l'API publique [PokéA
 
 ## ✨ Aperçu
 
-![Aperçu du Pokédex](./screenshots/apercu.png)
+![Aperçu du Pokédex](./src/assets/pokemon.png)
 
 ---
 
